@@ -1,4 +1,8 @@
 git is fast version
 git is version control 
+<<<<<<< HEAD
  git is very fast 
  
+=======
+git is used widly world
+>>>>>>> ef749d95902f054dddad415b1406ac9061dd42e4
