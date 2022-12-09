@@ -5,3 +5,5 @@ git is used widly world
 git is used 
 hi git is also svn
 git init
+git version very fast too
+git merge
