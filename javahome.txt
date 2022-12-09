@@ -6,4 +6,8 @@ git is used
 hi git is also svn
 git init
 git version very fast too
+<<<<<<< HEAD
 git merge
+=======
+git fetch
+>>>>>>> 40727e23d9e76d2e18376edab00f2fcda8cf46d3
